@@ -1,11 +1,12 @@
 <div align="center">
   
-### Hi there 👋
-- 🌱 I’m SeongJoon Yoon 
-- KHU IE & SWCON
+
 <br/>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=muk-jjang%20&fontSize=90)
+### Hi there 👋
+- 🌱 I’m SeongJoon Yoon 
+- KHU IE & SWCON
   
 
 ### :star2: Tech Stack
