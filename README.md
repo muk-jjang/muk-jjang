@@ -1,5 +1,12 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=muk-jjang%20&fontSize=90)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+</div>
+
 <!--
 **muk-jjang/muk-jjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
