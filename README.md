@@ -8,6 +8,7 @@
 🌱 I’m SeongJoon Yoon 
 <br/>
 KHU IE & SW
+KHU AIMS LAB Undergraduate Research Student
   
 
 ### :star2: Tech Stack
