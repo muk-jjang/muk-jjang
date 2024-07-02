@@ -75,20 +75,15 @@ I’m interested in solving optimization problems such as logistics and routing 
 
 </div>
 
-| **Project Title**                                                                                                                                               | **Description**                                                                                                                 | **Period**        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [**Optimizing Bundled Delivery Routes Using Reinforcement Learning in Dynamic Event Situations**](#)                                                            | Route optimization in dynamic events using the RL4CO framework. Example: Assigning drivers to deliveries during dynamic events. | 2024.04 - Present |
-| [**Combining Plastic Texture Data Augmentation Techniques for Reverse Vending Machine System**](https://github.com/muk-jjang/2024_DataCapstone_Recycling_Fiery) | Implementing an RVM system in line with Korean recycling policies                                                               |
-
-Approach:
-
-1. Arduino + classification model (ResNet-50, EfficientNet-b4)
-2. Outlier detection model (Light U-Net). | 2024.04 - 2024.06 |
-   | [**Recommend Accommodations and Routes Based on Jeju Island Travel Log Data**](https://github.com/muk-jjang/22_MiniProject_BBGG) | Using algorithms like Xgboost, MF-SVD to recommend accommodations. Optimizing routes to recommended destinations using OR-Tools. | 2024.01 - 2024.02 |
-   | [**2D Object Detection Contest by Gyeonggi-do Autonomous Driving Center**](https://github.com/muk-jjang/Autonomous-driving_2d_object_detection) | Detecting pedestrians, bicycles, trucks, cars, buses, and motorcycles using YOLOv5. Using HIC-YOLOv5 for detecting small objects. | 2023.10 - 2023.12 |
-   | [**CJ Logistics Distribution Strategy and Optimal HUB Determination**](https://github.com/muk-jjang/CJ-Logistics-Distribution-Strategy-and-Optimal-HUB-Determination) | Determining the best locations for hub terminals using Gravity Model and Demand Allocation Model. | 2023.05 - 2023.07 |
-   | [**Analyzing Lecture Reviews with LDA Topic Modeling in Everytime Application**](https://github.com/muk-jjang/-LDA-) | Participated in data crawling for analysis. | 2023.04 - 2023.05 |
-   | [**Textual Emotion Analysis and Image-Based Emoticons-Recommendation System**](https://github.com/muk-jjang/Textual-Emotion-Analysis-and-Image-Based-Emoticons-Recommendation-System) | Labeling data sentiment using GPT API. Fine-tuning BERT and analyzing emoji emoticon similarity using CLIP. | 2023.01 - 2023.02 |
+| **Project Title**                                                                                                                                                                     | **Description**                                                                                                                   | **Period**        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [**Optimizing Bundled Delivery Routes Using Reinforcement Learning in Dynamic Event Situations**](#)                                                                                  | Route optimization in dynamic events using the RL4CO framework. Example: Assigning drivers to deliveries during dynamic events.   | 2024.04 - Present |
+| [**Combining Plastic Texture Data Augmentation Techniques for Reverse Vending Machine System**](https://github.com/muk-jjang/2024_DataCapstone_Recycling_Fiery)                       | Implementing an RVM system in line with Korean recycling policies(EfficientNet, ResNet ,Light U-Net)                              | 2024.04 - 2024.06 |
+| [**Recommend Accommodations and Routes Based on Jeju Island Travel Log Data**](https://github.com/muk-jjang/22_MiniProject_BBGG)                                                      | Using algorithms like Xgboost, MF-SVD to recommend accommodations. Optimizing routes to recommended destinations using OR-Tools.  | 2024.01 - 2024.02 |
+| [**2D Object Detection Contest by Gyeonggi-do Autonomous Driving Center**](https://github.com/muk-jjang/Autonomous-driving_2d_object_detection)                                       | Detecting pedestrians, bicycles, trucks, cars, buses, and motorcycles using YOLOv5. Using HIC-YOLOv5 for detecting small objects. | 2023.10 - 2023.12 |
+| [**CJ Logistics Distribution Strategy and Optimal HUB Determination**](https://github.com/muk-jjang/CJ-Logistics-Distribution-Strategy-and-Optimal-HUB-Determination)                 | Determining the best locations for hub terminals using Gravity Model and Demand Allocation Model.                                 | 2023.05 - 2023.07 |
+| [**Analyzing Lecture Reviews with LDA Topic Modeling in Everytime Application**](https://github.com/muk-jjang/-LDA-)                                                                  | Participated in data crawling for analysis.                                                                                       | 2023.04 - 2023.05 |
+| [**Textual Emotion Analysis and Image-Based Emoticons-Recommendation System**](https://github.com/muk-jjang/Textual-Emotion-Analysis-and-Image-Based-Emoticons-Recommendation-System) | Labeling data sentiment using GPT API. Fine-tuning BERT and analyzing emoji emoticon similarity using CLIP.                       | 2023.01 - 2023.02 |
 
 ---
 
