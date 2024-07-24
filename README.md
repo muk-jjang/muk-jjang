@@ -111,6 +111,8 @@ I’m interested in solving optimization problems such as logistics and routing 
 
 ---
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/muk-jjang"/>
-</a>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/muk-jjang"/>
+  </a>
+</p>  
