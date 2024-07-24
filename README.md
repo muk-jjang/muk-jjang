@@ -110,7 +110,11 @@ I’m interested in solving optimization problems such as logistics and routing 
 - **2023.01 - 2023.05:** 경희대학교 데이터분석 동아리 KHUDA
 
 ---
+<div align="center">
+  
+## 🐻 Farm
 
+</div>
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/muk-jjang"/>
