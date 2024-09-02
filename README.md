@@ -14,12 +14,12 @@ I’m interested in solving optimization problems such as logistics and routing 
 
 </div>
 
-| Company / Lab / School                                     | Position                       | Period            |
-| ---------------------------------------------------------- | ------------------------------ | ----------------- |
-| **Tilda Corp**                                             | **ICT Intern**                 | **2024-09 — now** |
-| AIMS Lab, KHU IE                                           | Undergraduate Research Student | 2024-01 — now     |
-| Kyung Hee University Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — now     |
-| Kyung Hee University Industrial and Management Engineering | Undergraduate                  | 2022-02 — now     |
+| Company / Lab / School                    | Position                       | Period            |
+| ----------------------------------------- | ------------------------------ | ----------------- |
+| **Tilda Corp**                            | **ICT Intern**                 | **2024-09 — now** |
+| AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — now     |
+| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — now     |
+| KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — now     |
 
 ---
 
