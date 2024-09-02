@@ -13,7 +13,6 @@ I’m interested in solving optimization problems such as logistics and routing 
 ## 🎓 Career and Academic Experience
 
 </div>
-## 📖 Career and Academic Experience
 
 | Company / Lab / School                                     | Position                       | Period            |
 | ---------------------------------------------------------- | ------------------------------ | ----------------- |
@@ -109,6 +108,7 @@ I’m interested in solving optimization problems such as logistics and routing 
 - **2023.01 - 2023.05:** 경희대학교 데이터분석 동아리 KHUDA
 
 ---
+
 <div align="center">
   
 ## 🐻 Farm
@@ -118,4 +118,4 @@ I’m interested in solving optimization problems such as logistics and routing 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/muk-jjang"/>
   </a>
-</p>  
+</p>
