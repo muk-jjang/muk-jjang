@@ -10,18 +10,17 @@ I’m interested in solving optimization problems such as logistics and routing 
 
 <div align="center">
   
-## 🎓 Academic Experience
+## 🎓 Career and Academic Experience
 
 </div>
+## 📖 Career and Academic Experience
 
-- **KHU AIMS LAB Undergraduate Research Student**  
-  _Kyung Hee University_ | 2024.01 - Present
-
-- **Department of Software Convergence**  
-  _Kyung Hee University_ | 2024.03 - Present
-
-- **Department of Industrial and Management Engineering**  
-  _Kyung Hee University_ | 2022.03 - Present
+| Company / Lab / School                                     | Position                       | Period            |
+| ---------------------------------------------------------- | ------------------------------ | ----------------- |
+| **Tilda Corp**                                             | **ICT Intern**                 | **2024-09 — now** |
+| AIMS Lab, KHU IE                                           | Undergraduate Research Student | 2024-01 — now     |
+| Kyung Hee University Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — now     |
+| Kyung Hee University Industrial and Management Engineering | Undergraduate                  | 2022-02 — now     |
 
 ---
 
