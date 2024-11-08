@@ -12,7 +12,7 @@ I’m interested in solving optimization problems such as logistics and routing 
   
 ## 🎓 Career and Academic Experience
 
-</div>
+
 
 | Company / Lab / School                    | Position                       | Period            |
 | ----------------------------------------- | ------------------------------ | ----------------- |
@@ -21,6 +21,7 @@ I’m interested in solving optimization problems such as logistics and routing 
 | KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — now     |
 | KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — now     |
 
+</div>
 ---
 
 <div align="center">
