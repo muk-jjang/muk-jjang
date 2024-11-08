@@ -22,7 +22,6 @@ I’m interested in solving optimization problems such as logistics and routing 
 | KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — now     |
 
 </div>
----
 
 <div align="center">
   
