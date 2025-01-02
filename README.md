@@ -14,12 +14,13 @@ I’m interested in solving optimization problems such as logistics and routing 
 
 </div>
 
-| Company / Lab / School                    | Position                       | Period            |
-| ----------------------------------------- | ------------------------------ | ----------------- |
-| **Tilda Corp**                            | **ICT Intern**                 | **2024-09 — now** |
-| AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08 |
-| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — now     |
-| KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — now     |
+| Company / Lab / School                    | Position                       | Period                |
+| ----------------------------------------- | ------------------------------ | --------------------- |
+| **System Intelligence Lab, KAIST**        | **Lab Intern**                 | **2024-12 — 2025-02** |
+| Tilda Corp                                | ICT Intern                     | 2024-09 — 2024-12     |
+| AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08     |
+| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — 2026-02     |
+| KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — 2026-02     |
 
 ---
 
@@ -74,7 +75,8 @@ I’m interested in solving optimization problems such as logistics and routing 
 </div>
 
 | **Project Title**                                                                                                                                                                     | **Description**                                                                                                                   | **Period**        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [**Casting Process Control Optimization Solution based Digital-Twin**](https://github.com/muk-jjang/2024_KAMP_casting_optimization_competition)                                       | 2024.11 - 2024.11                                                                                                                 |                   | Through domain and data analysis, we selected important control variables in the casting process. XGB, LightGBM, EXT, FFTransformer, etc. were used to build the Digital- Twin model. Based on the learned Digital-Twin Bayesian optimization was used to derive the optimal control value for the state. | 2024.12 |
 | [**Optimizing Bundled Delivery Routes Using Reinforcement Learning in Dynamic Event Situations**](https://github.com/OptiMaps)                                                        | Route optimization in dynamic events using the RL4CO framework. Example: Assigning drivers to deliveries during dynamic events.   | 2024.04 - Present |
 | [**Combining Plastic Texture Data Augmentation Techniques for Reverse Vending Machine System**](https://github.com/muk-jjang/2024_DataCapstone_Recycling_Fiery)                       | Implementing an RVM system in line with Korean recycling policies(EfficientNet, ResNet ,Light U-Net)                              | 2024.04 - 2024.06 |
 | [**Recommend Accommodations and Routes Based on Jeju Island Travel Log Data**](https://github.com/muk-jjang/22_MiniProject_BBGG)                                                      | Using algorithms like Xgboost, MF-SVD to recommend accommodations. Optimizing routes to recommended destinations using OR-Tools.  | 2024.01 - 2024.02 |
