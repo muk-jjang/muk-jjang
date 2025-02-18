@@ -1,4 +1,4 @@
-# SEONGJOON YOON
+# SeongJun Yun
 
 **🎓 Undergraduate Student at Kyung Hee University**
 
