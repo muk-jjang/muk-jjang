@@ -2,7 +2,7 @@
 
 **🎓 Undergraduate Student at Kyung Hee University**
 
-I’m interested in solving optimization problems such as logistics and routing problems through reinforcement learning.
+I’m interested in sequential decision making under uncertainty.
 
 📧 **Email:** [whgdk0911@khu.ac.kr](mailto:whgdk0911@khu.ac.kr)
 
