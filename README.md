@@ -103,8 +103,8 @@ I’m interested in solving optimization problems such as logistics, routing pro
 
 </div>
 
-- **2024.01 - Present:** 국내 최초 데이터분석 동아리 BOAZ 데이터분석 트랙
-- **2024.01 - Present:** 국내 최초 데이터분석 동아리 BOAZ 기획팀
+- **2024.01 - 2025.02:** 국내 최초 데이터분석 동아리 BOAZ 데이터분석 트랙
+- **2024.01 - 2025.02:** 국내 최초 데이터분석 동아리 BOAZ 기획팀 팀장
 - **2023.01 - 2023.05:** 경희대학교 데이터분석 동아리 KHUDA
 
 ---
