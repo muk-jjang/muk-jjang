@@ -102,6 +102,7 @@ I’m interested in solving optimization problems such as logistics, routing pro
 ## 🎯 Extracurricular Activity
 
 </div>
+
 - **2025.03 - Now:** 가짜연구소(Pseudo Lab) AI in Logistic & Transportation session Runner
 - **2024.01 - 2025.02:** 국내 최초 데이터분석 동아리 BOAZ 데이터분석 트랙
 - **2024.01 - 2025.02:** 국내 최초 데이터분석 동아리 BOAZ 기획팀 팀장
