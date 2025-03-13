@@ -12,13 +12,13 @@ I’m interested in sequential decision making problems.
   
 ## 🎓 Career and Academic Experience
 
-| Company / Lab / School                    | Position                       | Period                |
-| ----------------------------------------- | ------------------------------ | --------------------- |
-| **System Intelligence Lab, KAIST**        | **Lab Intern**                 | **2024-12 — 2025-02** |
-| Tilda Corp                                | ICT Intern, ML Engineer        | 2024-09 — 2024-12     |
-| AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08     |
-| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — 2026-02     |
-| KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — 2026-02     |
+| Company / Lab / School                    | Position                       | Period            |
+| ----------------------------------------- | ------------------------------ | ----------------- |
+| System Intelligence Lab, KAIST            | Lab Intern                     | 2024-12 — 2025-02 |
+| Tilda Corp                                | ICT Intern, ML Engineer        | 2024-09 — 2024-12 |
+| AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08 |
+| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — 2026-02 |
+| KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — 2026-02 |
 
 </div>
 
