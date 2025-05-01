@@ -14,6 +14,7 @@ I’m interested in sequential decision making problems.
 
 | Company / Lab / School                    | Position                       | Period            |
 | ----------------------------------------- | ------------------------------ | ----------------- |
+| DILLAB, Yonsei University                 | Lab Intern                     | 2025-03 — **Now** |
 | System Intelligence Lab, KAIST            | Lab Intern                     | 2024-12 — 2025-02 |
 | Tilda Corp                                | ICT Intern, ML Engineer        | 2024-09 — 2024-12 |
 | AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08 |
