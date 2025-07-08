@@ -2,7 +2,7 @@
 
 **🎓 Undergraduate Student at Kyung Hee University**
 
-I’m interested in sequential decision making problems.
+I’m interested in combinatorial optimization, reinforcement learning.
 
 📧 **Email:** [whgdk0911@khu.ac.kr](mailto:whgdk0911@khu.ac.kr)
 
@@ -14,7 +14,7 @@ I’m interested in sequential decision making problems.
 
 | Company / Lab / School                    | Position                       | Period            |
 | ----------------------------------------- | ------------------------------ | ----------------- |
-| DILLAB, Yonsei University                 | Lab Intern                     | 2025-03 — **Now** |
+| DILLAB, Yonsei University                 | Lab Intern                     | 2025-03 — 2025-06 |
 | System Intelligence Lab, KAIST            | Lab Intern                     | 2024-12 — 2025-02 |
 | Tilda Corp                                | ICT Intern, ML Engineer        | 2024-09 — 2024-12 |
 | AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08 |
