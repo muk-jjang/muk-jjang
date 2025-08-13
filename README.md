@@ -2,7 +2,7 @@
 
 **🎓 Undergraduate Student at Kyung Hee University**
 
-I’m interested diffusion sampler, probabilistic inference, generative flow networks, system 2 deep learning, RL and their applications.
+I’m interested probabilistic generative modeling, inference, and reinforcement learning.
 
 📧 **Email:** [whgdk0911@khu.ac.kr](mailto:whgdk0911@khu.ac.kr)
 
