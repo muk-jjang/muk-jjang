@@ -13,15 +13,15 @@ also their mathmatical property
   
 ## 🎓 Career and Academic Experience
 
-| Company / Lab / School                    | Position                                           | Period            |
-| ----------------------------------------- | -------------------------------------------------- | ----------------- |
-| AGI Lab, Korea Univ                       | MS-PhD (Advised by Sungbin Lim and Seongwoong Kim) | **2026-03 —**     |
-| AGI Lab, Korea Univ                       | Lab Intern                                         | 2025-09 — 2026-02 |
-| System Intelligence Lab, KAIST            | Lab Intern                                         | 2024-12 — 2025-02 |
-| Tilda Corp                                | ICT Intern, ML Engineer                            | 2024-09 — 2024-12 |
-| AIMS Lab, KHU IE                          | Undergraduate Research Student                     | 2024-01 — 2024-08 |
-| KHU Software Convergence                  | Undergraduate(Double Major)                        | 2024-02 — 2026-02 |
-| KHU Industrial and Management Engineering | Undergraduate                                      | 2022-02 — 2026-02 |
+| Company / Lab / School                    | Position                       | Period            |
+| ----------------------------------------- | ------------------------------ | ----------------- |
+| AGI Lab, Korea Univ                       | MS-PhD                         | **2026-03 —**     |
+| AGI Lab, Korea Univ                       | Lab Intern                     | 2025-09 — 2026-02 |
+| System Intelligence Lab, KAIST            | Lab Intern                     | 2024-12 — 2025-02 |
+| Tilda Corp                                | ICT Intern, ML Engineer        | 2024-09 — 2024-12 |
+| AIMS Lab, KHU IE                          | Undergraduate Research Student | 2024-01 — 2024-08 |
+| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — 2026-02 |
+| KHU Industrial and Management Engineering | Undergraduate                  | 2022-02 — 2026-02 |
 
 </div>
 
