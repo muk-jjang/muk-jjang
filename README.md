@@ -1,11 +1,11 @@
 # SeongJun Yun
 
-**🎓 Undergraduate Student at Kyung Hee University**
+**🎓 Graduate Student at Korea University**
 
 I’m interested probabilistic generative modeling, inference, and reinforcement learning.
-also their mathmatical property
+also their mathmatical property, with a focus on applying these methodologies to AI4Science
 
-📧 **Email:** [whgdk0911@khu.ac.kr](mailto:whgdk0911@khu.ac.kr)
+📧 **Email:** [whgdk0911@korea.ac.kr](mailto:whgdk0911@korea.ac.kr)
 
 ---
 
