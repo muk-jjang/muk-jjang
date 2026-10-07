@@ -1,6 +1,5 @@
 # SeongJun Yun
 
-I’m interested probabilistic generative modeling, inference, and reinforcement learning.
-also their mathmatical property, with a focus on applying these methodologies to AI4Science, AI for Safety
+I’m interested in active learning, uncertainty quantification.
 
-📧 **Email:** [whgdk0911@gmail.com](mailto:whgdk0911@gmail.com)
+📧 **Email:** [seongjunyun@korea.ac.kr](mailto:seongjunyun@korea.ac.kr)
